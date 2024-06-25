@@ -1,63 +1,101 @@
+h1{
+    background-color:white;
+    margin:10px;
+    height: max-content;
+}
+
+
 .parent{
     color:white;
-    margin: 0%;
-    width: 50%;
+    margin: 1%;
+    width: 100;
 }
 
 .child1{
-    background-color:rgb(7, 0, 196)
+    background-color:rgb(7, 0, 196);
+    height:25px;
+    font-size: larger;
+
 }
 
 .child2{
-    background-color: rgb(0, 0, 255)
+    background-color: rgb(0, 0, 255);
+    height:25px;
+    font-size: larger;
 }
 
 .child3{
     background-color: rgb(0, 82 ,255);
+    height:25px;
+    font-size: larger;
 }
 
 .child4{
     background-color: rgb(0, 122 , 255);
+    height:25px;
+    font-size: larger;
 }
 
 .child5{ 
     background-color: rgb(0, 163, 255);
+    height:25px;
+    font-size: larger;
 }
 
 .child6{
     background-color: rgb(0, 204, 255);
+    height:25px;
+    font-size: larger;
 }
 .child7{
-    background-color:cyan
+    background-color:cyan;
+    height:25px;
+    font-size: larger;
 }
 
 .child8{
     background-color: rgb(123,227,130);
+    height:25px;
+    font-size: larger;
 }
 
 .child9{
-    background-color: rgb(254, 220, 232)
+    background-color: rgb(254, 220, 232);
+    height:25px;
+    font-size: larger;
 }
 
 .child10{
-    background-color:pink
+    background-color:pink;
+    height:25px;
+    font-size: larger;
 }
 .child11{
-    background-color:rgb(251, 174, 188)
+    background-color:rgb(251, 174, 188);
+    height:25px;
+    font-size: larger;
 }
 
 .child12{
     background-color: rgb(254, 131, 170);
+    height:25px;
+    font-size: larger;
 }
 
 .child13{
-    background-color:rgb(251, 84, 165)
+    background-color:rgb(251, 84, 165);
+    height:25px;
+    font-size: larger;
 }
 
 .child14{
     background-color: rgb(244,11,151);
+    height:25px;
+    font-size: larger;
 }
 
 .child15{
     background-color: rgb(209, 28, 131);
+    height:25px;
+    font-size: larger;
 }
