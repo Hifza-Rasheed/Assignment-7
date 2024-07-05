@@ -1,2 +1,2 @@
-# Assignment-7
+# CSS-1
 Creating a PH scale using HTML and CSS...
